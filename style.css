@@ -1,0 +1,13 @@
+body {
+    background-image: url('./image/pexels-afshahin-corporation-831742368-19396040.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+h1 {
+    text-align: center;
+    margin-top: 430px;
+    color: rgb(18, 211, 18);
+}
